@@ -1,3 +1,11 @@
+# Quest Log
+Quest log is a to-do list styled like the Quest system from Destiny, alongside a rewards system for tracking progress.
+
+I have been making this to teach myself react.js in preparation for my third-year project, and so while it takes a lower priority than my third-year work, I do intend to finish it as I will find it useful.
+
+
+## Next.js-Generated ReadMe
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
