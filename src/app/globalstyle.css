@@ -1,0 +1,35 @@
+
+body {
+    margin:0px;
+
+}
+.head-banner {
+    background-color: #9cdeff;
+    margin:0px;
+    margin-bottom: 1em;
+    padding:1em;
+    display:flex;
+    justify-content: center;
+}
+.logo {
+    display: flex;
+    justify-self: flex-start; 
+    padding:10px;
+}
+
+.menuOptions {
+    padding-left: auto;
+    padding-right: auto;
+    display:flex;
+    justify-content: center;
+}
+
+.menuOptions a {
+    padding: 10px;
+}
+
+.application {
+ padding: 10px;
+ padding-top: 0px;
+ margin:0px;
+}

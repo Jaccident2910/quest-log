@@ -1,0 +1,16 @@
+
+{
+"name":"Example Quest",
+"description":"This is an example of a quest",
+"phases":[
+        {"critArray":
+            [
+                {"critString":"This is the first Criterion","complete":false},
+                {"critString":"This is the second Criterion","complete":false}
+            ],
+            "reward":1
+        }
+    ]
+}
+
+
